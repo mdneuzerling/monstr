@@ -1,0 +1,9 @@
+Package: monstr
+Title: Dungeons and Dragons Tools and Data for R
+Version: 0.0.0.9000
+Authors@R: person("Murray David", "Neuzerling", role = c("aut", "cre"))
+Description: Dungeons and Dragons Tools and Data for R
+Depends: R (>= 3.4.4)
+License: Multiple
+Encoding: UTF-8
+LazyData: true
